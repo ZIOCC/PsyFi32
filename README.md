@@ -1,4 +1,7 @@
 # PsyFi32
+
+https://www.smart-prototyping.com/Zuino-XS-PsyFi32.html
+
 An ESP32 dev board with the footprint and pinout of a Pro Micro, plus a Qwiic connector?! What's not to love?
 
 The PsyFi32 is based on the Sparkfun ESP32 Thing and the Sparkfun Pro Micro.
