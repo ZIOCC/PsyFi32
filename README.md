@@ -13,3 +13,8 @@ For our Mocap suit demo, we used Wire library files transplanted from Stickbreak
 All Zio products are released under the Creative Commons Attribution, Share-Alike License, and in accordance with the principles of the Open Source Hardware Association's OSHW Statement of Principles 1.0 and OSHW Definition 1.0. https://creativecommons.org/licenses/by-sa/4.0/
 https://www.oshwa.org/definition/
 https://www.oshwa.org/definition/chinese/
+
+
+## ESP32Dev Board PINMAP
+
+![Pin Functions](PsyFi32_PinOuts.png)
