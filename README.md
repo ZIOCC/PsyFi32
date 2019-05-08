@@ -28,7 +28,7 @@ In case you’re wondering about the name: it’s a trifecta of fun references.
 > Note: As with all of the Version 1.0 Zio Qwiic boards, this board has been produced with the I2C pull-ups disconnected by default. If there's a significant length of wire between this board and your MCU, you'll need to solder closed the solder jumpers (labeled SDA, 3v3 and SCL) to connect the pull-up resistors to VCC.
 
 
-## PsyFi32 Dev Board PINMAP
+##### PsyFi32 Dev Board PINMAP
 
 ![Pin Functions](PsyFi32_PinOuts.png)
 
@@ -43,7 +43,7 @@ In case you’re wondering about the name: it’s a trifecta of fun references.
 
 #### Links
 
-* [esp32_datasheet](
+* [esp32_datasheet](https://www.smart-prototyping.com/image/data/NOA-RnD/101887%20Psyfi/esp32_datasheet_en.pdf)
 * [Arduino core for the ESP32](https://github.com/espressif/arduino-esp32)
 * [Eagle Files](https://github.com/ZIOCC/PsyFi32)
 * [Very Detailed Introduction for ESP32 on Instructables.com](https://www.instructables.com/id/IOT-Made-Simple-Playing-With-the-ESP32-on-Arduino-/)
